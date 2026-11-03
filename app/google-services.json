@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803939218176",
+    "project_id": "kobiamonitor",
+    "storage_bucket": "kobiamonitor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803939218176:android:ded3adbe6ede38a877f9e5",
+        "android_client_info": {
+          "package_name": "com.kobia.monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4E2kQfHHkQuoXlF4_TsdC4zccZh5V0mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
